@@ -1,0 +1,40 @@
+<Card>
+	<Type>Ingredient</Type>
+	<Name>Tomato</Name>
+	<Description>This is your standard tomato</Description>
+	<Stats>(2.0, 0.0, 0.0, 0.0, 0.0, 1.0)</Stats>
+	<Mechanics>('', '')</Mechanics>
+	<Tag>tomato</Tag>
+	<Art>Tomato.png</Art>
+	<Picture Location>ING001</Picture Location>
+</Card>
+<Card>
+	<Type>Ingredient</Type>
+	<Name>Heirloom Tomato</Name>
+	<Description>Not your standard tomato</Description>
+	<Stats>(3.0, 0.0, 0.0, 0.0, 0.0, 3.0)</Stats>
+	<Mechanics>('Overpowering Flavour', '')</Mechanics>
+	<Tag>tomato, heirloom</Tag>
+	<Art>HeirloomTomato.jpg</Art>
+	<Picture Location>ING002</Picture Location>
+</Card>
+<Card>
+	<Type>Ingredient</Type>
+	<Name>Spaghetti</Name>
+	<Description>Pairs with thick, tomato based sauces.</Description>
+	<Stats>(0.0, 0.0, 1.0, 0.0, 0.0, 0.0)</Stats>
+	<Mechanics>('Al Dente', '')</Mechanics>
+	<Tag>spaghetti</Tag>
+	<Art>Spaghetti.jpg</Art>
+	<Picture Location>ING003</Picture Location>
+</Card>
+<Card>
+	<Type>Ingredient</Type>
+	<Name>Mom's Spaghetti</Name>
+	<Description>Always Ready, Mom's Spaghetti</Description>
+	<Stats>(0.0, 0.0, 2.0, 0.0, 0.0, 0.0)</Stats>
+	<Mechanics>('', '')</Mechanics>
+	<Tag>spaghetti, moms</Tag>
+	<Art>Spaghetti.jpg</Art>
+	<Picture Location>ING004</Picture Location>
+</Card>
